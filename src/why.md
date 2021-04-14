@@ -20,21 +20,6 @@ Clark praises recent developments like the World Wide Web (!) and Gopher, but al
 > Infrastructure must know about information objects.
 
 
-. Yet, seen through the eyes of the IETF staff Clark was addressing in 1992, these services fell short of the __Information Mesh__ concept Clark was envisaging. The design of these application level data protocols diverged significantly from the principles that were used in the wildy successful transport and internet layers of the Interent, that emphasized the concept of __end to end intelligence__:
-
-> The intelligence is end to end rather than hidden in the network.
-
-Internet Protocols intelligence is end to end. They designed the protocols attempting to avoid having intelligence hidden in the network. 
-
-Again following RFC1958, the design of the Internet Protocols attempts to put __intelligence in the ends of the connection__, instad of hidden in the network. 
-
-
-
-early Internet pioneer David Clark addressed the Internet Egnineering Task Force.
-
-
-
-
 RFC1958, _Architectural Principles of the Internet_, June 1996
 
 > The goal is __connectivity__.\
