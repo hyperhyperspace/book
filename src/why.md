@@ -12,13 +12,15 @@ There is one line of reasoning, however, that feels uncannily relevant. As state
 
 Clark praises recent developments like the World Wide Web (!) and Gopher, but also remarks the need for _information objects_ to be known to the protocols that power the net. Seen through the lens of the contemporary Internet, it is easy to see how this is still missing today. The online platforms for e-commerce, social interaction, entertainment distribution, workplace collaboration, etc. we have today are globally accessible, building upon the Internet premise of providing _connectivity_, but don't constitute an _information mesh_ in the sense Clark imagined.
 
-The protocols we use to access the web are _presentational_ in nature, anchored first in the concept of a _document_, and later evolving (as web browsers became more powerful and versatile) into a _thin client_ through which very sophisticated platforms can be remotely operated. The inner workings of these platforms, however, remain opaque. Thus even basic concepts like identity, ownership and trust remain internal to each of these walled garden-like platorms - and not interoperable between them. This greatly complicates ownership of the digital assets created within the platforms, since they can only exist inside of each platform's systems.
+The protocols we use to access the web are _presentational_ in nature, anchored first in the concept of a _document_, and later evolving (as web browsers became more powerful and versatile) into a _thin client_ through which very sophisticated platforms can be remotely operated. The inner workings of these platforms, however, remain opaque. Thus even basic concepts like identity, ownership and trust remain internal to each of these walled gardens, and not interoperable between them. This greatly complicates ownership of the digital assets created within the platforms, since they can only exist inside of each platform's systems.
 
 Going back to ```RFC1958```, the organizing principle for the Internet protocols was
 
 > The __intelligence is end to end__ rather than hidden in the network.
 
-It is easy to see how information systems, as they developed into the platforms described above, have diverged from this principle, and why Clark and the Internet Ingeneering Task Force he was addressing considered this possibility worrisome (in 1992!). Clark included the following idea in his list of recommendations:
+It is easy to see how information systems, as they developed into the platforms described above, have diverged from this principle, and why Clark and the Internet Engineering Task Force he was addressing considered this possibility worrisome (in 1992!).
+
+Clark included the following idea in his list of recommendations:
 
 > Develop a new protocol reference model for application
 > level relay networks. Make it work.
