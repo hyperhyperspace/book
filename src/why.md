@@ -10,7 +10,7 @@ There is one line of reasoning, however, that feels uncannily relevant. As state
 
 > The network as an Information Mesh. An old goal, not yet achieved.
 
-Clark praises recent developments like the World Wide Web (!) and Gopher, but also remarks the need for _information objects_ to be known to the protocols that power the net. Seen through the lens of the contemporary Internet, it is easy to see how this is not the case. The protocols we use to access the web of today are _presentational_ in nature.
+Clark praises recent developments like the World Wide Web (!) and Gopher, but also remarks the need for _information objects_ to be known to the protocols that power the net. Seen through the lens of the contemporary Internet, it is easy to see how this is still missing today. The protocols we use to access the web are _presentational_ in nature, anchored first in the concept of a _document_, and later evolving (as web browsers became more powerful and versatile) into a _thin client_ through which very sophisticated platforms can be accessed. 
 
 
 > Develop a new protocol reference model for application
