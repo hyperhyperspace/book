@@ -1,0 +1,6 @@
+[book]
+authors = ["Santiago Bazerque"]
+language = "en"
+multilingual = false
+src = "src"
+title = "The Hyper Hyper Space"
